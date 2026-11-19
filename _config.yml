@@ -1,0 +1,10 @@
+title: jtligon
+description: >-
+  Jeff Ligon's corner of the internet — local AI, agents, open source,
+  and the occasional dad joke.
+url: "https://jtligon.github.io"
+author: Jeff Ligon
+theme: minima
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+show_excerpts: true
